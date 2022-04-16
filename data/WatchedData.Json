@@ -1,0 +1,50 @@
+{"listOfItems": [
+    {
+        "name": "Home Alone",
+        "rating": 4.7,
+        "genre": "Family",
+        "numHours": 3
+    },
+    {
+        "name": "Kung-fu Panda 3",
+        "rating": 4.7,
+        "genre": "Animation",
+        "numHours": 2.8
+    },
+    {
+        "name": "Shrek",
+        "rating": 4.58,
+        "genre": "Kids",
+        "numHours": 2.78
+    },
+    {
+        "name": "Spider Man",
+        "rating": 4.56,
+        "genre": "Super Hero",
+        "numHours": 4
+    },
+    {
+        "name": "Pirates of the Caribbean 3",
+        "rating": 5,
+        "genre": "Fantasy",
+        "numHours": 3
+    },
+    {
+        "name": "Spider Man NWH",
+        "rating": 5,
+        "genre": "SuperHero",
+        "numHours": 3
+    },
+    {
+        "name": "Fast and Furious",
+        "rating": 4.87,
+        "genre": "Family",
+        "numHours": 3
+    },
+    {
+        "name": "The Dark Knight",
+        "rating": 4.65,
+        "genre": "Action",
+        "numHours": 3
+    }
+]}

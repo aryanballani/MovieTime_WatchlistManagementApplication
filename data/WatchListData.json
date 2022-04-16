@@ -1,0 +1,104 @@
+{"listOfItems": [
+    {
+        "name": "Pirates of the Caribbean",
+        "rating": 5,
+        "genre": "Fantasy",
+        "numHours": 3
+    },
+    {
+        "name": "Demon Slayer",
+        "rating": 4.5,
+        "genre": "Anime",
+        "numHours": 3
+    },
+    {
+        "name": "3 Idiots",
+        "rating": 4.66,
+        "genre": "Comedy",
+        "numHours": 3
+    },
+    {
+        "name": "Kung-fu Panda 2",
+        "rating": 5,
+        "genre": "Animation",
+        "numHours": 2.7
+    },
+    {
+        "name": "Kung-fu Panda",
+        "rating": 4.7,
+        "genre": "Animation",
+        "numHours": 2.8
+    },
+    {
+        "name": "Pirates of the Caribbean 2",
+        "rating": 5,
+        "genre": "Fantasy",
+        "numHours": 3
+    },
+    {
+        "name": "Pirates of the Caribbean 4",
+        "rating": 5,
+        "genre": "Fantasy",
+        "numHours": 3
+    },
+    {
+        "name": "Pirates of the Caribbean 5",
+        "rating": 4.87,
+        "genre": "Fantasy",
+        "numHours": 3
+    },
+    {
+        "name": "Fast and Furious 2",
+        "rating": 4.87,
+        "genre": "Family",
+        "numHours": 3
+    },
+    {
+        "name": "Fast and Furious 3",
+        "rating": 4.87,
+        "genre": "Family",
+        "numHours": 3
+    },
+    {
+        "name": "Fast and Furious 5",
+        "rating": 4.87,
+        "genre": "Family",
+        "numHours": 3
+    },
+    {
+        "name": "Interstellar",
+        "rating": 5,
+        "genre": "Family",
+        "numHours": 3
+    },
+    {
+        "name": "The Martiian",
+        "rating": 3,
+        "genre": "Sci-fi",
+        "numHours": 3
+    },
+    {
+        "name": "Gravity",
+        "rating": 3.8,
+        "genre": "Sci-fi",
+        "numHours": 3
+    },
+    {
+        "name": "Iron Man 2",
+        "rating": 4.6,
+        "genre": "Marvel",
+        "numHours": 3
+    },
+    {
+        "name": "Titanic",
+        "rating": 5,
+        "genre": "Romance",
+        "numHours": 3
+    },
+    {
+        "name": "ZNMD",
+        "rating": 5,
+        "genre": "Feel-good",
+        "numHours": 3
+    }
+]}

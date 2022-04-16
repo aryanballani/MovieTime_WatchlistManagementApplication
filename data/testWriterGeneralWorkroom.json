@@ -1,0 +1,14 @@
+{"listOfItems": [
+    {
+        "name": "Aryan",
+        "rating": 5,
+        "genre": "horror",
+        "numHours": 2.34
+    },
+    {
+        "name": "SpiderMan",
+        "rating": 4,
+        "genre": "genre",
+        "numHours": 3
+    }
+]}
