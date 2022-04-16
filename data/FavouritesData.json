@@ -1,0 +1,74 @@
+{"listOfItems": [
+    {
+        "name": "Pirates of the Caribbean",
+        "rating": 5,
+        "genre": "Fantasy",
+        "numHours": 3
+    },
+    {
+        "name": "Interstellar",
+        "rating": 5,
+        "genre": "Family",
+        "numHours": 3
+    },
+    {
+        "name": "Kung-fu Panda 2",
+        "rating": 5,
+        "genre": "Animation",
+        "numHours": 2.7
+    },
+    {
+        "name": "3 Idiots",
+        "rating": 4.66,
+        "genre": "Comedy",
+        "numHours": 3
+    },
+    {
+        "name": "Spider Man",
+        "rating": 4.56,
+        "genre": "Super Hero",
+        "numHours": 4
+    },
+    {
+        "name": "Gravity",
+        "rating": 3.8,
+        "genre": "Sci-fi",
+        "numHours": 3
+    },
+    {
+        "name": "Iron Man 2",
+        "rating": 4.6,
+        "genre": "Marvel",
+        "numHours": 3
+    },
+    {
+        "name": "Kung-fu Panda 3",
+        "rating": 4.7,
+        "genre": "Animation",
+        "numHours": 2.8
+    },
+    {
+        "name": "Fast and Furious 2",
+        "rating": 4.87,
+        "genre": "Family",
+        "numHours": 3
+    },
+    {
+        "name": "Pirates of the Caribbean 3",
+        "rating": 5,
+        "genre": "Fantasy",
+        "numHours": 3
+    },
+    {
+        "name": "Shrek",
+        "rating": 4.58,
+        "genre": "Kids",
+        "numHours": 2.78
+    },
+    {
+        "name": "Spider Man NWH",
+        "rating": 5,
+        "genre": "SuperHero",
+        "numHours": 3
+    }
+]}
